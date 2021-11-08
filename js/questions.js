@@ -8,7 +8,7 @@ let questions = [
       "Disorder",
       "Disorganization",
       "Queue",
-      "Organization"
+      "Organizatiosn"
     ]
   },
     {
