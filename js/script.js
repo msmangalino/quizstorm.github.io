@@ -32,7 +32,7 @@ continue_btn.onclick = ()=>{
 }
 let timeValue =  20;
 let que_count = 0;
-let que_numb = 1;
+let que_numb = 0;
 let userScore = 0;
 let counter;
 let counterLine;
@@ -70,7 +70,7 @@ const bottom_ques_counter = document.querySelector("footer .total_que");
 
 
 next_btn.onclick = ()=>{
-    if(que_count < questions.length - 1){ 
+    if(que_count < questions.length - 0){ 
         que_count++; 
         que_numb++; 
         showQuetions(que_count); 
