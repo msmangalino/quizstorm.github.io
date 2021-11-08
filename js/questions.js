@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "A word you'll pronounce the same if you're going to take four of its five letters",
+    answer: "Queue",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Disorder",
+      "Disorganization",
+      "Queue",
+      "Organization"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "What is a tarsier?",
+    answer: "A primate",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "A lizard",
+      "A primate",
+      "A bird",
+      "A snake"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: " How many rings are on the Olympic flag?",
+    answer: "5",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "None",
+      "4",
+      "5",
+      "7"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "How did Spider-Man get his powers?",
+    answer: "Bitten by radioactive spider",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Military experiment gone awry",
+      "Born with them",
+      "Bitten by radioactive spider",
+      "Woke up with them after a strange dream"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "In darts, what's the most points you can score with a single throw?",
+    answer: "60",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "20",
+      "50",
+      "60",
+      "100"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
@@ -60,13 +60,13 @@ let questions = [
 
   //   {
   //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
+  //   question: "Which of these animals does NOT appear in the Chinese zodiac?",
+  //   answer: "Bear",
   //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
+  //     "Bear",
+  //     "Rabbit",
+  //     "Dragon",
+  //     "Dog"
   //   ]
   // },
 ];
